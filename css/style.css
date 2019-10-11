@@ -1,6 +1,4 @@
-* {
 
-}
 
 body{
 	margin: 0%;
@@ -30,13 +28,59 @@ body{
 .site-title{
 	text-align: center;
 	margin-top:7%;
-	<p>Lorem Ipsum é simplesmente um texto fictício da indústria tipográfica e de impressão. 
-				Lorem Ipsum é o texto fictício padrão do setor desde os anos 1500,</p>
-			</div> 
+	height: 74vh;
+
+}
+
+.site-title h2{
+	font-size: 3em;
+	margin: 5% 0%;
+
 
 }
 
 .title-text{
+width: 50vw;
+height: 5vh;
+font-size: 0.8em;
+color: #F6F8FF;
+
+
+}
+
+.my-4{
+
+
+
+	
+}
+
+.btn-sub1{
+
+	font-family: 'Patua One';
+	border: 1px solid #EF233c;
+	background-color: #EDF2f4;
+	color: #EF233C;
+	border-radius: 3px;
+	padding: 0.7em 1em;
+	cursor: pointer;
+	transition: all 500ms ease;
+}
+
+.btn-sub2{
+	font-family: 'Patua One';
+	padding: 0.7em 1em;
+	background-color: #EF233c;
+	border: 1px solid #EDF2F4;
+	color: #EDF2F4;
+	border-radius: 3px;
+	cursor: pointer;
+	transition: all 500ms ease;
+
+	}
+
+.site-title{
+	padding-left: 0.3;
 
 
 }
