@@ -1,4 +1,4 @@
-
+ 
 
 body{
 	margin: 0%;
@@ -79,8 +79,33 @@ color: #F6F8FF;
 
 	}
 
-.site-title{
-	padding-left: 0.3;
+.site-title i{
+	padding-left: 0.3em;
 
 
+}
+/*<!----- 1-conteúdo ---->*/
+
+
+.conteudo-1 .col-md-12 h6{
+font-size: 10px;
+color: #EF233C;
+
+}
+.conteudo-1 .col-md-12 .title-border{
+content: "";
+width: 30%;
+height: 2px;
+display: block;
+background-color:#EF233C;
+border-radius: 50%;
+margin: 1%;
+margin-left: 35%;
+
+
+} 
+
+.conteudo-1 .col-md-12 p{
+	font-size: 11px;
+	color:#3f494c;
 }
