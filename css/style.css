@@ -109,3 +109,27 @@ margin-left: 35%;
 	font-size: 11px;
 	color:#3f494c;
 }
+
+.conteudo-1 .curcle{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	margin-left: 9vW;
+	background-color: #F7FFF7;
+	border: 1px solid rgba(63,73,76,0.205);
+	color: #EF233c;
+	transition: all 200ms ease;
+
+}
+
+.conteudo-1 .description{
+
+	text-decoration: none;
+
+}
+
+.conteudo-1 .description{
+
+	font-size: 11px;
+
+}
